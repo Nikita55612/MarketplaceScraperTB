@@ -1,0 +1,10 @@
+pyTelegramBotAPI==4.16.1
+seleniumbase==4.24.11
+beautifulsoup4==4.12.3
+lxml==5.1.0
+pydantic==2.6.3
+pandas==2.2.1
+openpyxl==3.1.2
+validators==0.22.0
+pretty-html-table==0.9.16
+openai==1.7.0
